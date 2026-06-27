@@ -11,15 +11,17 @@
 
 ## 💼 Sobre
 
-Profissional com **mais de 10 anos de experiência** em infraestrutura de TI, atualmente **Gerente de TI na MDG Intermediações**, liderando projetos de modernização, segurança e automação de processos.
+Profissional com **mais de 10 anos de experiência** em infraestrutura de TI — do suporte técnico à gestão estratégica. Atualmente liderando projetos de modernização, segurança e automação na MDG Intermediações.
 
-Dominio **Windows Server, Active Directory, GPO, Proxmox, Mikrotik** e automações com **n8n**. Nos últimos anos, venho me aprofundando em **DevOps** e automação de infraestrutura, com foco em **Docker, Git, CI/CD** e **Infraestrutura como Código (IaC)**.
+Fundador da **TecRox**, marca sob a qual desenvolvo soluções completas de tecnologia: automação com n8n, agentes de voz IA, CRM multi-tenant, chatbots inteligentes e infraestrutura sob medida.
 
-Movido por desafios que envolvem melhoria contínua, eficiência operacional e segurança. Busco constantemente inovação e soluções práticas que gerem impacto real no negócio.
+Stack dominante: **Windows Server, Active Directory, Proxmox, Mikrotik, n8n, Docker, Python**. Nos últimos anos, mergulhei em **DevOps, IaC, Agentes Autônomos e LLMs** — construindo sistemas que unem infraestrutura clássica com inteligência artificial.
+
+Movido por desafios que envolvem melhoria contínua, eficiência operacional e segurança. Busco inovação e soluções práticas que gerem impacto real no negócio.
 
 ---
 
-## 🔭 Projetos em Destaque
+## 🚀 Projetos TecRox
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -28,6 +30,8 @@ Movido por desafios que envolvem melhoria contínua, eficiência operacional e s
 | 🐾 **PetCare SaaS** | Gestão veterinária | Next.js, shadcn/ui, Supabase, TypeScript |
 | 🏦 **CRM Precatório** | Gestão de precatórios — ACG | NestJS, React, Prisma, PostgreSQL |
 | ⚡ **193 workflows n8n** | Automações em produção: ERP, SMS, IA, RH, financeiro | n8n, PostgreSQL, Redis, Docker, Evolution API |
+| 📹 **ClipFlow** | Postagem automática TikTok via API oficial | TikTok Content API, GitHub Pages |
+| 🎬 **TecRox YouTube** | Conteúdo de tecnologia, tutoriais, dicas | Google Analytics, edição |
 
 ---
 
@@ -41,10 +45,10 @@ DevOps:            Docker · Git · CI/CD · IaC · PowerShell
 Automação:         n8n · Python · Bash · PowerShell · NoCode
 Bancos de Dados:   PostgreSQL · SQL Server · Redis
 Linguagens:        Python · JavaScript/TypeScript · SQL · PowerShell
-Cloud/APIs:        Google Workspace · Evolution API · WhatsApp API
-IA/LLM:            Gemini · OpenAI · Agentes Autônomos · RAG · Pipecat
+Voz/IA:            Gemini Live · Pipecat · Whisper · Agentes Autônomos · RAG · LLM
+APIs:              Evolution API · WhatsApp Cloud API · Google Workspace · TikTok
 Monitoramento:     Zabbix · PRTG
-Certificações:     ISO 27001 · Scrum · LGPD · Mikrotik · Proxmox
+Gestão:            ITIL · ISO 27001 · Scrum · Agile · LGPD
 ```
 
 ---
@@ -56,15 +60,15 @@ Certificações:     ISO 27001 · Scrum · LGPD · Mikrotik · Proxmox
 
 ---
 
-## 📜 Certificações (46+)
+## 📜 Certificações em Destaque
 
 | Categoria | Certificações |
 |-----------|--------------|
 | 🏆 **Scrum & Ágil** | SFPC (CertiProf), Gestão Ágil com Scrum |
 | 🔒 **Segurança** | ISO 27001, LGPD, Criptografia Windows Server, Gestão de Riscos |
 | 🖥️ **Infra** | Proxmox (Iniciante + Avançado), Mikrotik Completo, ITIL v3 |
-| 🤖 **IA & Automação** | Fundamentos IA (Google), NoCode StartUp (12 cursos), Agentes IA, RAG, N8N |
-| 👥 **Liderança** | Sólides (12 cursos): Liderança, Feedback, Oratória, Gestão de Pessoas |
+| 🤖 **IA & Automação** | Google IA, NoCode StartUp (12 cursos), Agentes IA, RAG, N8N |
+| 👥 **Liderança** | Sólides (12 cursos): Liderança, Feedback, Oratória, Gestão |
 
 ---
 
@@ -80,6 +84,7 @@ Certificações:     ISO 27001 · Scrum · LGPD · Mikrotik · Proxmox
 - 💼 **LinkedIn:** [linkedin.com/in/raul-guimarães](https://www.linkedin.com/in/raul-guimar%C3%A3es)
 - 🐦 **Telegram:** [@Jesuisrox](https://t.me/Jesuisrox)
 - 📧 **E-mail:** raulguimaraes.ti@gmail.com
+- 🌐 **TecRox:** github.com/RaulTecRox
 
 ---
 
