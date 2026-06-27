@@ -2,7 +2,7 @@
 
 **Automação · Voz IA · CRM · Agentes Autônomos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raulguimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raulguimaraes) <!-- 🔴 Atualize o link -->
 [![Portfólio](https://img.shields.io/badge/n8n-193%20workflows-00C853?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/RaulTecRox/n8n-portfolio)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raul@mdgintermediacoes.com.br)
 
@@ -34,14 +34,15 @@ Automação:  n8n · Python · Bash · Agentes autônomos
 
 ### 📊 GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=RaulTecRox&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=RaulTecRox&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulTecRox&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📬 Contato
 
-- 💼 **LinkedIn:** [linkedin.com/in/raulguimaraes](https://linkedin.com/in/raulguimaraes)
-- 🐦 **Telegram:** @Jesuisrox
+- 💼 **LinkedIn:** [Me adicione](https://linkedin.com/in/raulguimaraes) 🔗
+- 🐦 **Telegram:** [@Jesuisrox](https://t.me/Jesuisrox)
 - 📧 **E-mail:** raul@mdgintermediacoes.com.br
 
 ---
